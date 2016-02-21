@@ -20,8 +20,8 @@ Specification for PropML can be found [here](https://www.github.com/mbullington/
 
 ## TODO
 
-* [ ] Literal strings, `r""`, don't work as intended, but should be parsed without error.
-* [ ] Support escaping in strings.
+* [x] Literal strings, `r""`, don't work as intended, but should be parsed without error.
+* [x] Support escaping in strings.
 * [ ] List support for values.
 * [ ] Inline map support for values.
 * [ ] Better error handling.
