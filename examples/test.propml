@@ -1,0 +1,12 @@
+# Example taken from PropML specification
+head {
+  title(text = r"Test Page", a = true)
+  script(type = text/javascript, src = main.js)
+}
+body {
+  div@header {
+    h1(text = "Test Page")
+    hr
+    h2(text = "Subtext")
+  }
+}
