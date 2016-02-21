@@ -22,8 +22,8 @@ Specification for PropML can be found [here](https://www.github.com/mbullington/
 
 * [x] Literal strings, `r""`, don't work as intended, but should be parsed without error.
 * [x] Support escaping in strings.
-* [ ] List support for values.
-* [ ] Inline map support for values.
+* [x] List support for values.
+* [x] Inline map support for values.
 * [ ] Better error handling.
 * [ ] Unit testing.
 * [ ] 1.0.0 release, via npm.

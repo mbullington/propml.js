@@ -1,4 +1,3 @@
-# Example taken from PropML specification
 head {
   title(text = "Test Page")
   script(type = text/javascript, src = main.js)
