@@ -1,6 +1,6 @@
 # Example taken from PropML specification
 head {
-  title(text = r"Test Page", a = true)
+  title(text = "Test Page")
   script(type = text/javascript, src = main.js)
 }
 body {
